@@ -1,5 +1,9 @@
 # Guia de referência para manipulação de dados
 
+## O que é
+
+Tutoriais curtos para servirem de referência básica a comandos e bibliotecas de Python.
+
 ## Como vai funcionar
 
 Os tutoriais serão escritos em Notebooks Jupyter criada pelo Projeto Jupyter, os Notebooks ficarão na pasta [notes](https://github.com/junque1r4/notebooks/tree/master/notes) e os dados para análise e/ou teste ficarão na pasta [data](https://github.com/junque1r4/notebooks/tree/master/data).
